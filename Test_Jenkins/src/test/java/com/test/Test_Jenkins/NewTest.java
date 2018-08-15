@@ -14,6 +14,6 @@ public class NewTest {
 //	  driver.get("http://www.facebook.com");
 //	  driver.close();
 	  
-	  System.out.println("Success");
+	  System.out.println("-----Success-----");
   }
 }
